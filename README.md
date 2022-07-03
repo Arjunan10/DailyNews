@@ -1,6 +1,6 @@
 # DailyNews
 
-A self thought idea of selling newspaper online with external e-copies which will be send to customer's whatsapp
+Idea of selling newspaper online with external e-copies which will be send to customer's whatsapp
 
 Responsive Website using plain HTML,CSS,JS 
 which provides information about the business model and payments 
